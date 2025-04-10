@@ -1,16 +1,16 @@
+Here's an updated version of your GitHub README file:
+
+---
+
 ## Hi there 👋
 
-<!--
-**PangeranSilaen/PangeranSilaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a second-year student (4th semester) studying Information Systems at Institut Teknologi Kalimantan. Passionate about coding and always eager to explore the latest technological innovations. Constantly learning and growing in the ever-evolving tech world. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building my coding skills and exploring new tech projects.
+- 🌱 I’m currently learning more about programming, data analysis, and emerging technologies.
+- 👯 I’m looking to collaborate on projects related to coding, data, and tech innovations.
+- 💬 Ask me about coding, tech trends, or anything related to Information Systems!
+- ⚡ Fun fact: I love experimenting with new tech and am always excited about learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
